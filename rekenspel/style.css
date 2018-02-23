@@ -1,0 +1,20 @@
+body{
+
+   background-image: url("img/background.jpg");
+ background-color: blue;
+  text-align: center;
+}
+
+div#wrapper{
+	background: white;
+	border:#999 1px solid;
+	width:300px;
+	height:200px;
+	padding:24px;
+	margin:0px auto;
+
+}
+#good.jpg
+{
+  margin:auto;
+}
