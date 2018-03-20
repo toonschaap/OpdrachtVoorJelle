@@ -1,0 +1,16 @@
+body{
+
+
+
+
+    text-align: center;
+}
+.goed{
+  background-color: green;
+}
+.fout{
+  background-color: red;
+}
+.wrapper{
+  background-color: yellow;
+}
